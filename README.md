@@ -1,0 +1,3 @@
+# Machine-Learning
+## Personal machine learning note
+This is a collection of my learning and applications about machine learning models, including Linear Regression, Logistic Registic Regression, Random Forest, XGboost and Linear SVM. The Marketing Analytics file is a entry-level application of linear regression model in price prediction, and in the Healthcare Analytics project I used multiple models, and automated optimal-parameter search featured by self-defined class and functions in Python, to screen out the pre-existing diseases that may leverage extra risk for COVID-19 patients. The model accruracy reached to 93% on test dataset. Besides, I also used Word Cloud to visualize the most risky pre-existing diseases for people who don't understand about data analytics. 
